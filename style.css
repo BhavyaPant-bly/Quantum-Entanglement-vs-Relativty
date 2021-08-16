@@ -1,0 +1,40 @@
+body {
+
+    font-family: 'Rubik', sans-serif;
+    margin: 0px;
+}
+h1{
+    padding-left: 5rem;
+    padding-top:3rem;
+    margin:0px;
+    font-size: 300%;
+}
+small{
+    padding-left:5rem;
+    /* padding-bottom:3rem; */
+    color:gray;
+}
+
+.name{
+    padding-left:43rem;
+    font-style: italic;
+    color:gray;
+}
+.container{
+    font-size:130%;
+    padding: 3rem 4rem;
+    background-color: white;
+    border: 1px solid black;
+}
+.container-center {
+    max-width :900px;
+    margin: auto;
+}
+.bg{
+    background-color: rgb(40, 40, 65);
+    padding:2rem
+}
+img{
+    width:100%;
+    height:400px;
+}
